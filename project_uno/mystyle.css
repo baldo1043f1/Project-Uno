@@ -1,0 +1,29 @@
+#menuText{
+	width:600px; 
+	text-align: center;
+	background-color:#add8e6;
+	border:2px solid black;
+
+}
+
+#formText{
+	width:400px; 
+	text-align: center;
+	background-color:#add8e6;
+	border:2px solid black;
+}
+
+#tableText{
+	background-color:#32CD32;
+	object.style.textDecoration=underline;
+	font-size:26;
+	
+	
+}
+
+#largeformText{
+	width:900px; 
+	text-align: center;
+	background-color:#add8e6;
+	border:2px solid black;
+}
